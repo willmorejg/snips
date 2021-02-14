@@ -1,2 +1,2 @@
 # snips
-Snips of Java code
+Various Java code exercises.
