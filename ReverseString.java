@@ -1,7 +1,6 @@
-/*
-Reverse a Java String without using a StringBuffer or StringBuilder.
-*/
-
+/**
+  * Reverse a Java String without using a StringBuffer or StringBuilder.
+  */
 public class ReverseString {
     public static void main(String[] args) {
         String original = "zyxwvutsrqponmlkjihgfedcba";
